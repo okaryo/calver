@@ -5,7 +5,7 @@
   "description": "GitHub Action to calculate the next Calendar Versioning tag.",
   "license": "MIT",
   "type": "module",
-  "packageManager": "pnpm@11.7.0",
+  "packageManager": "pnpm@11.26.0",
   "scripts": {
     "build": "tsc -p tsconfig.build.json && ncc build lib/index.js -o dist --license licenses.txt",
     "check": "biome check --write .",
