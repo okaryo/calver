@@ -16,10 +16,10 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^2.5.4",
-    "@types/node": "^24.13.3",
+    "@types/node": "^26.6.5",
     "@vercel/ncc": "^0.44.1",
     "typescript": "^7.0.2",
-    "vitest": "^4.1.10"
+    "vitest": "^5.0.5"
   },
   "dependencies": {
     "@actions/core": "^3.0.1",
